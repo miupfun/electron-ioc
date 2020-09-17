@@ -1,4 +1,4 @@
-import {app, ipcMain, Event, globalShortcut, Accelerator} from 'electron'
+import {app, Event, ipcMain} from 'electron'
 import {MiupApplication} from "../../ioc";
 
 
