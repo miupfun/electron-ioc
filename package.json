@@ -1,12 +1,13 @@
 {
     "name": "@miup/electron-ioc",
-    "version": "1.0.1",
-    "description": "",
+    "version": "1.0.2",
+    "description": "https://www.npmjs.com/package/@miup/electron-ioc",
     "main": "index.js",
+    "homepage": "https://github.com/miupfun/electron-ioc",
     "scripts": {
         "build": "tsc&&npm publish --access public"
     },
-    "author": "",
+    "author": "TristanWong",
     "license": "ISC",
     "dependencies": {
         "inversify": "^5.0.1",
